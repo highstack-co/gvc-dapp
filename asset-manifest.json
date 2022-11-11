@@ -2,16 +2,16 @@
   "files": {
     "main.js": "https://app.galaxyvillains.com/static/js/main.b04232f8.chunk.js",
     "main.js.map": "https://app.galaxyvillains.com/static/js/main.b04232f8.chunk.js.map",
-    "runtime-main.js": "https://app.galaxyvillains.com/static/js/runtime-main.a2bf9940.js",
-    "runtime-main.js.map": "https://app.galaxyvillains.com/static/js/runtime-main.a2bf9940.js.map",
+    "runtime-main.js": "https://app.galaxyvillains.com/static/js/runtime-main.55a6ac35.js",
+    "runtime-main.js.map": "https://app.galaxyvillains.com/static/js/runtime-main.55a6ac35.js.map",
     "static/js/2.91fd4718.chunk.js": "https://app.galaxyvillains.com/static/js/2.91fd4718.chunk.js",
     "static/js/2.91fd4718.chunk.js.map": "https://app.galaxyvillains.com/static/js/2.91fd4718.chunk.js.map",
     "static/js/3.343caeba.chunk.js": "https://app.galaxyvillains.com/static/js/3.343caeba.chunk.js",
     "static/js/3.343caeba.chunk.js.map": "https://app.galaxyvillains.com/static/js/3.343caeba.chunk.js.map",
     "static/js/4.90b86a62.chunk.js": "https://app.galaxyvillains.com/static/js/4.90b86a62.chunk.js",
     "static/js/4.90b86a62.chunk.js.map": "https://app.galaxyvillains.com/static/js/4.90b86a62.chunk.js.map",
-    "static/js/5.51bf911b.chunk.js": "https://app.galaxyvillains.com/static/js/5.51bf911b.chunk.js",
-    "static/js/5.51bf911b.chunk.js.map": "https://app.galaxyvillains.com/static/js/5.51bf911b.chunk.js.map",
+    "static/js/5.dc5b5649.chunk.js": "https://app.galaxyvillains.com/static/js/5.dc5b5649.chunk.js",
+    "static/js/5.dc5b5649.chunk.js.map": "https://app.galaxyvillains.com/static/js/5.dc5b5649.chunk.js.map",
     "static/js/6.6f8ed090.chunk.js": "https://app.galaxyvillains.com/static/js/6.6f8ed090.chunk.js",
     "static/js/6.6f8ed090.chunk.js.map": "https://app.galaxyvillains.com/static/js/6.6f8ed090.chunk.js.map",
     "static/js/7.37bf4c6c.chunk.js": "https://app.galaxyvillains.com/static/js/7.37bf4c6c.chunk.js",
@@ -35,7 +35,7 @@
     "static/media/x.33076876.svg": "https://app.galaxyvillains.com/static/media/x.33076876.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.a2bf9940.js",
+    "static/js/runtime-main.55a6ac35.js",
     "static/js/2.91fd4718.chunk.js",
     "static/js/main.b04232f8.chunk.js"
   ]
